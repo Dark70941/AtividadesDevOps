@@ -1,7 +1,9 @@
 Resumo - Aula 01: Apresentação da Disciplina e Introdução ao DevOps
 
 Disciplina: Integração e Entrega Contínua (DevOps)
+
 Instituição: FATEC Sorocaba (Faculdade de Tecnologia)
+
 Professor: Prof. Deivison S. Takatu (`deivison.takatu@fatec.sp.gov.br`)
 
 ---
