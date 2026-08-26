@@ -13,4 +13,4 @@
 Abaixo estão listadas as atividades e resumos desenvolvidos ao longo das aulas do semestre. Clique nos links para acessar o conteúdo correspondente de cada aula:
 
 - 📁 [Aula 01 - Apresentação da Disciplina e Introdução ao DevOps](./aula01-resumo.md)
-- 📁 [Aula 01 - Apresentação da Disciplina e Introdução ao DevOps](./aula02-resumo.md)
+- 📁 [Aula 02 - Apresentação da Disciplina e Introdução ao DevOps](./aula02-resumo.md)
