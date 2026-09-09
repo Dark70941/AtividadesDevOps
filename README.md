@@ -17,4 +17,4 @@ Abaixo estão listadas as atividades e resumos desenvolvidos ao longo das aulas 
 - 📁 [Aula 03 - Relatório de Projeto de Software Baseado em Template Open Source](./aula03-resumo.md)
 - 📁 [Aula 04 - Análise Comparativa de Ferramentas CI/CD (Azure DevOps vs. GitHub)](./aula04-resumo.md)
 - 📁 [Aula 05 - Pipeline de Integração Contínua](./aula05-resumo.md)
-- 📁 [Aula 06 - Pipeline de Integração Contínua](./aula06-resumo.md)
+- 📁 [Aula 06 - Revisão de Ferramentas e Pipelines](./aula06-resumo.md)
