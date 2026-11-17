@@ -6,7 +6,7 @@
 
 **Professor:** Prof. Me. Deivison S. Takatu
 
-Este documento centraliza os repositórios e links de entrega das tarefas práticas desenvolvidas ao longo da disciplina, devidamente associados à sua numeração oficial no Microsoft Teams.
+Este documento centraliza os repositórios e links de entrega das tarefas práticas desenvolvidas ao longo da disciplina
 
 ## Lista de Tarefas e Repositórios
 
