@@ -6,7 +6,7 @@
 
 **Instituição:** Fatec Sorocaba
 
----
+---------
 
 ## 📁 Localização dos Arquivos e Atividades
 
@@ -22,3 +22,8 @@ Abaixo estão listadas as atividades e resumos desenvolvidos ao longo das aulas 
 - 📁 [Aula 08 - Ferramentas do Ecossistema DevOps](./Resumos%20Das%20Aulas/aula08-resumo.md)
 - 📁 [Aula 09 - Documentação de Software](./Resumos%20Das%20Aulas/aula09-resumo.md)
 - 📁 [Aula 10 - Arquitetura e Requisitos de um Projeto DevOps](./Resumos%20Das%20Aulas/aula10-resumo.md)
+
+---------
+
+Atividades
+- 📁 [Atividades](./Atividades.md)
