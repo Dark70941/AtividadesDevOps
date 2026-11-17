@@ -12,13 +12,13 @@
 
 Abaixo estão listadas as atividades e resumos desenvolvidos ao longo das aulas do semestre. Clique nos links para acessar o conteúdo correspondente de cada aula:
 
-- 📁 [Aula 01 - Apresentação da Disciplina e Introdução ao DevOps](./aula01-resumo.md)
-- 📁 [Aula 02 - Conceitos de Integração e Entrega Contínua de Software, Versionamento, Git/GitHub e Deploys](./aula02-resumo.md)
-- 📁 [Aula 03 - Relatório de Projeto de Software Baseado em Template Open Source](./aula03-resumo.md)
-- 📁 [Aula 04 - Análise Comparativa de Ferramentas CI/CD (Azure DevOps vs. GitHub)](./aula04-resumo.md)
-- 📁 [Aula 05 - Pipeline de Integração Contínua](./aula05-resumo.md)
-- 📁 [Aula 06 - Revisão de Ferramentas e Pipelines](./aula06-resumo.md)
-- 📁 [Aula 07 - Testes Automatizados](./aula07-resumo.md)
-- 📁 [Aula 08 - Ferramentas do Ecossistema DevOps](./aula08-resumo.md)
-- 📁 [Aula 09 - Documentação de Software](./aula09-resumo.md)
-- 📁 [Aula 10 - Arquitetura e Requisitos de um Projeto DevOps](./aula10-resumo.md)
+- 📁 [Aula 01 - Apresentação da Disciplina e Introdução ao DevOps](./Resumos%20Das%20Aulas/aula01-resumo.md)
+- 📁 [Aula 02 - Conceitos de Integração e Entrega Contínua de Software, Versionamento, Git/GitHub e Deploys](./Resumos%20Das%20Aulas/aula02-resumo.md)
+- 📁 [Aula 03 - Relatório de Projeto de Software Baseado em Template Open Source](./Resumos%20Das%20Aulas/aula03-resumo.md)
+- 📁 [Aula 04 - Análise Comparativa de Ferramentas CI/CD (Azure DevOps vs. GitHub)](./Resumos%20Das%20Aulas/aula04-resumo.md)
+- 📁 [Aula 05 - Pipeline de Integração Contínua](./Resumos%20Das%20Aulas/aula05-resumo.md)
+- 📁 [Aula 06 - Revisão de Ferramentas e Pipelines](./Resumos%20Das%20Aulas/aula06-resumo.md)
+- 📁 [Aula 07 - Testes Automatizados](./Resumos%20Das%20Aulas/aula07-resumo.md)
+- 📁 [Aula 08 - Ferramentas do Ecossistema DevOps](./Resumos%20Das%20Aulas/aula08-resumo.md)
+- 📁 [Aula 09 - Documentação de Software](./Resumos%20Das%20Aulas/aula09-resumo.md)
+- 📁 [Aula 10 - Arquitetura e Requisitos de um Projeto DevOps](./Resumos%20Das%20Aulas/aula10-resumo.md)
