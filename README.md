@@ -10,7 +10,7 @@
 
 ## 📁 Localização dos Arquivos e Atividades
 
-Abaixo estão listadas as atividades e resumos desenvolvidos ao longo das aulas do semestre. Clique nos links para acessar o conteúdo correspondente de cada aula:
+Abaixo estão listadas as atividades e resumos desenvolvidos ao longo das aulas do semestre.
 
 - 📁 [Aula 01 - Apresentação da Disciplina e Introdução ao DevOps](./Resumos%20Das%20Aulas/aula01-resumo.md)
 - 📁 [Aula 02 - Conceitos de Integração e Entrega Contínua de Software, Versionamento, Git/GitHub e Deploys](./Resumos%20Das%20Aulas/aula02-resumo.md)
